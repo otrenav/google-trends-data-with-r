@@ -5,7 +5,7 @@
 
 # Google Trends Data with R
 
-- Developed by Omar Trejo
+- Omar Trejo
 - January, 2017
 
 ## Objective
